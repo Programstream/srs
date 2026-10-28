@@ -96,5 +96,4 @@ This document provides shared context for both the **SRS Agent** and **TSD Agent
 ## References
 
 - Program GitHub: https://github.com/Programstream/program
-- RSG Framework Docs: https://github.com/Programstream/program/blob/main/RSG-PROGRAM.md
 - Calendar Generator Code: https://github.com/Programstream/program/blob/main/Road%20Map%2026-27/src/roadmap_calendar/calendar_gen.py

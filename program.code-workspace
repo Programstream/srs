@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../program"
+		},
+		{
+			"name": "srs",
+			"path": "."
+		},
+		{
+			"name": "tsd",
+			"path": "../tsd"
+		}
+	],
+	"settings": {}
+}
